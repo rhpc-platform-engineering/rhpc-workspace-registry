@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'RHPC Workspace Registry',
     description: 'The official store for RHPC supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://rhpc-platform-engineering.github.io/rhpc-workspace-registry/',
+    listUrl: 'https://registry.robusthpc.site/',
     contactUrl: 'https://support.robusthpc.com/',
   },
   reactStrictMode: true,
